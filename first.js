@@ -13,4 +13,4 @@ const userFurtherInfo = prompt("enter your age");
 //template literals or template strings method
 alert(`Welcome ${userInfo}, you are  ${userFurtherInfo} years old.`);
 //this state,ent writes directly on the page rather than console using document.write
-document.write(`Welcome ${userInfo}, you are ${userFurtherInfo} years old`);
+document.write(`Welcome ${userInfo}, you are ${userFurtherInfo} years old.`);
